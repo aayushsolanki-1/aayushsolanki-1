@@ -33,5 +33,5 @@ Open to **Werkstudent** and internship roles in full-stack / software engineerin
 
 ## Contact
 
-📧 mr.aayushsolanki@gmail.com  
+📧 aayushsolanki.sa@gmail.com  
 💼 [linkedin.com/in/aayushsolanki](https://linkedin.com/in/aayushsolanki)
