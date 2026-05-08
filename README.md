@@ -34,7 +34,7 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,spring,postgres,git,vscode,gcp" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,spring,postgres,git,vscode,gcp,numpy" />
 </p>
 
 <p align="center">
@@ -42,13 +42,16 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/REST APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ---
@@ -66,8 +69,8 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 | Project | Description | Stack |
 |---|---|---|
 | [TaskFlow](https://github.com/aayushsolanki-1/taskflow) | Full-stack task manager with JWT auth and AI-powered smart prioritization | Java · Spring Boot · PostgreSQL · React |
-| [Weather Dashboard](https://github.com/aayushsolanki-1/weather-dashboard) | Real-time weather app using OpenWeatherMap API with location search and forecast display | HTML · CSS · JavaScript · REST API |
-| [Grade Tracker](https://github.com/aayushsolanki-1/grade-tracker) | Spring Boot REST API to manage students and grades with CRUD endpoints | Java · Spring Boot · H2 · REST API |
+| [Weather Dashboard](https://github.com/aayushsolanki-1/weather-dashboard) | Real-time weather app using OpenWeatherMap API — [Live Demo](https://aayushsolanki-1.github.io/weather-dashboard) | HTML · CSS · JavaScript · REST API |
+| [Grade Tracker](https://github.com/aayushsolanki-1/grade-tracker) | Spring Boot REST API to manage students and grades with CRUD endpoints — [Live Demo](https://grade-tracker-wf7w.onrender.com) | Java · Spring Boot · H2 · REST API |
 | [Sorting Algorithm Visualizer](https://github.com/aayushsolanki-1/sorting-visualizer) | Interactive visualization of 5 sorting algorithms with real-time swap counters — [Live Demo](https://aayushsolanki-1.github.io/sorting-visualizer) | HTML · CSS · Vanilla JS |
 | [Twitter Sentiment Analysis](https://github.com/aayushsolanki-1/twitter-sentiment-analysis) | End-to-end NLP pipeline classifying 1.6M tweets — B.Tech Capstone (A+) | Python · scikit-learn · pandas · NLP |
 
