@@ -44,6 +44,18 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 
 ---
 
+## 🛠️ Skills
+
+| Languages | Frameworks | Tools |
+|---|---|---|
+| Java | Spring Boot | Git |
+| Python | React | PostgreSQL |
+| JavaScript | scikit-learn | Google Cloud |
+| SQL | pandas · NumPy | |
+| HTML/CSS | | |
+
+---
+
 ## 🔨 Currently
 
 - 📚 M.Sc. coursework: NLP, Image Analysis & Reconstruction, Generative Software Engineering
