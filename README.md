@@ -34,7 +34,7 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,spring,postgres,git,vscode,gcp&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,spring,postgres,git,vscode,gcp&perline=11" />
 </p>
 
 **Languages** — Java · Python · JavaScript · SQL · HTML/CSS  
