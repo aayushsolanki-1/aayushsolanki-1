@@ -24,7 +24,7 @@
 
 I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital Media at **Bauhaus-Universität Weimar**. I build end-to-end applications with Java, Python, and modern web tech — and I bring **AI/ML awareness** into whatever I build, not as a buzzword, but as a practical tool.
 
-- 📍 Based in **Weimar, Germany** — open to on-site, hybrid, remote across Germany
+- 📍 Based in **Germany** — open to on-site, hybrid, remote across Germany
 - 🎓 B.Tech Computer Science — First Division with Honors (CGPA 8.03/10)
 - 🔍 Actively looking for **Werkstudent** and internship roles (available immediately)
 - 🇩🇪 Learning German — currently A1, targeting B2
