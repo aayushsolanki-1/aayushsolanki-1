@@ -63,10 +63,13 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 
 ## 📁 Projects
 
-| Project | Stack | Status |
+| Project | Description | Stack |
 |---|---|---|
-| [TaskFlow](https://github.com/aayushsolanki-1/taskflow) | Java · Spring Boot · PostgreSQL · React | 🚧 In progress |
-| [Twitter Sentiment Analysis](https://github.com/aayushsolanki-1/twitter-sentiment-analysis) | Python · scikit-learn · NLP | 🗃️ Archived (B.Tech Capstone, A+) |
+| [TaskFlow](https://github.com/aayushsolanki-1/taskflow) | Full-stack task manager with JWT auth and AI-powered smart prioritization | Java · Spring Boot · PostgreSQL · React |
+| [Weather Dashboard](https://github.com/aayushsolanki-1/weather-dashboard) | Real-time weather app using OpenWeatherMap API with location search and forecast display | HTML · CSS · JavaScript · REST API |
+| [Grade Tracker](https://github.com/aayushsolanki-1/grade-tracker) | Spring Boot REST API to manage students and grades with CRUD endpoints | Java · Spring Boot · H2 · REST API |
+| [Sorting Algorithm Visualizer](https://github.com/aayushsolanki-1/sorting-visualizer) | Interactive visualization of 5 sorting algorithms with real-time swap counters — [Live Demo](https://aayushsolanki-1.github.io/sorting-visualizer) | HTML · CSS · Vanilla JS |
+| [Twitter Sentiment Analysis](https://github.com/aayushsolanki-1/twitter-sentiment-analysis) | End-to-end NLP pipeline classifying 1.6M tweets — B.Tech Capstone (A+) | Python · scikit-learn · pandas · NLP |
 
 ---
 
