@@ -68,7 +68,7 @@ I'm a **full-stack developer** pursuing my M.Sc. in Computer Science for Digital
 
 | Project | Description | Stack |
 |---|---|---|
-| [TaskFlow](https://github.com/aayushsolanki-1/taskflow) | Full-stack task manager with JWT auth and AI-powered smart prioritization — [Live Demo]([https://taskflow-frontend-nine-lovat.vercel.app](https://taskflow-frontend-nine-lovat.vercel.app/)) | Java · Spring Boot · PostgreSQL · React |
+| [TaskFlow](https://github.com/aayushsolanki-1/taskflow) | Full-stack task manager with JWT auth and AI-powered smart prioritization — [Live Demo](https://taskflow-frontend-nine-lovat.vercel.app/) | Java · Spring Boot · PostgreSQL · React |
 | [Weather Dashboard](https://github.com/aayushsolanki-1/weather-dashboard) | Real-time weather app using OpenWeatherMap API — [Live Demo](https://aayushsolanki-1.github.io/weather-dashboard) | HTML · CSS · JavaScript · REST API |
 | [Grade Tracker](https://github.com/aayushsolanki-1/grade-tracker) | Spring Boot REST API to manage students and grades with CRUD endpoints — [Live Demo](https://grade-tracker-wf7w.onrender.com) | Java · Spring Boot · H2 · REST API |
 | [Sorting Algorithm Visualizer](https://github.com/aayushsolanki-1/sorting-visualizer) | Interactive visualization of 5 sorting algorithms with real-time swap counters — [Live Demo](https://aayushsolanki-1.github.io/sorting-visualizer) | HTML · CSS · Vanilla JS |
