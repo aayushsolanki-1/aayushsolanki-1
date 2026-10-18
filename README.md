@@ -15,7 +15,6 @@
   <a href="mailto:mr.aayushsolanki@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=aayushsolanki-1&style=for-the-badge&color=6366f1" alt="Profile views"/>
 </p>
 
 ---
